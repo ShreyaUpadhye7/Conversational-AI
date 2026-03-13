@@ -163,6 +163,7 @@ Conversational-AI
 │  
 ├── Conversational_AI_finale.ipynb  
 └── README.md  
+└── requirements.txt
 
 ---------------------------------------------------------------------
 
