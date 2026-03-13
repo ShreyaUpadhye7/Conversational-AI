@@ -1,4 +1,7 @@
 # Conversational AI using Seq2Seq with Attention
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Framework](https://img.shields.io/badge/Framework-PyTorch-red)
+![Status](https://img.shields.io/badge/Project-Research%20Implementation-green)
 
 This repository contains the implementation of a Conversational AI chatbot using a Sequence-to-Sequence (Seq2Seq) neural network with attention mechanisms built using PyTorch. The model is trained on the Cornell Movie Dialog Corpus to generate human-like responses in a dialogue setting.
 
